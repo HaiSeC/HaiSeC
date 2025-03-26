@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <details>
-<summary>🇺🇸 English</summary>
+<summary>🌐 Switch Language (English/Español)</summary>
 
+### English
 This is the English version.
-</details>
 
-<details>
-<summary>🇪🇸 Español</summary>
-
+### Español
 Esta es la versión en español.
 </details>
