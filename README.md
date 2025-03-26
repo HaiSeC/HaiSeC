@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🚀 **Software Engineer | Game Designer | Tech Enthusiast**  
 
-🔭 Currently working with **Salesforce, N8N, and Deel API**  
+🔭 Currently working with ****  
 🌍 Passionate about **Three.js, Ionic, React, and Next.js**  
 🎮 Love playing **video games** and working on **game development**  
 💡 Exploring **VR, AI, and interactive web experiences**  
