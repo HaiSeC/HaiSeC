@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```mermaid
-flowchart LR
-    A[🌐 English] -->|Click| B(English Content)
-    A -->|Click| C(Contenido Español)
-```
+<details>
+<summary>🇺🇸 English</summary>
+
+This is the English version.
+</details>
+
+<details>
+<summary>🇪🇸 Español</summary>
+
+Esta es la versión en español.
+</details>
