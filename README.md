@@ -15,16 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<input type="radio" id="english" name="language" checked>
-<label for="english">English</label>
-
-<input type="radio" id="spanish" name="language">
-<label for="spanish">Español</label>
-
-<div id="content-english">
-  **English content here.**
-</div>
-
-<div id="content-spanish" style="display:none">
-  **Contenido en español aquí.**
-</div>
+```mermaid
+flowchart LR
+    A[🌐 English] -->|Click| B(English Content)
+    A -->|Click| C(Contenido Español)
+```
