@@ -26,3 +26,4 @@ This is the English version.
 
 Esta es la versión en español.
 </details>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HaiSeC&show_icons=true&theme=radical)
