@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+<summary>🇺🇸 English</summary>
+
+This is the English version.
+</details>
+
+<details>
+<summary>🇪🇸 Español</summary>
+
+Esta es la versión en español.
+</details>
