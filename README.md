@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details>
-<summary>🌐 Switch Language (English/Español)</summary>
+<input type="radio" id="english" name="language" checked>
+<label for="english">English</label>
 
-### English
-This is the English version.
+<input type="radio" id="spanish" name="language">
+<label for="spanish">Español</label>
 
-### Español
-Esta es la versión en español.
-</details>
+<div id="content-english">
+  **English content here.**
+</div>
+
+<div id="content-spanish" style="display:none">
+  **Contenido en español aquí.**
+</div>
