@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Cristopher Sanabria (HaiSeC) 👋  
 
-🚀 **Software Engineer | Game Designer | Tech Enthusiast**  
-
-🔭 Currently working with ****  
-🌍 Passionate about **Three.js, Ionic, React, and Next.js**  
-🎮 Love playing **video games** and working on **game development**  
-💡 Exploring **VR, AI, and interactive web experiences**  
+🚀 **Software Engineer**  
+  
+🎮 Love playing **video games**  
+💡 New challenges  
 
 ---
 
@@ -62,7 +60,7 @@ Here are some ideas to get you started:
 ### **Tools & Platforms**  
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-FF751D?style=for-the-badge&logo=n8n&logoColor=white)
-![Deel](https://img.shields.io/badge/Deel-232323?style=for-the-badge&logoColor=white)
+<!--![Deel](https://img.shields.io/badge/Deel-232323?style=for-the-badge&logoColor=white)-->
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -81,4 +79,8 @@ Here are some ideas to get you started:
 ## 📫 Connect With Me  
 📧 **Email:** crissanabriah3@gmail.com  
 🔗 **GitHub:** [HaiSeC](https://github.com/HaiSeC)  
-📍 **Location:** Costa Rica)
+📍 **Location:** Costa Rica
+
+---
+
+*Made with ❤️ by Cristopher Sanabria | Software Engineer*
